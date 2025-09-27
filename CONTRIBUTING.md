@@ -1,12 +1,11 @@
 CalendarKit actively accepts contributions in a form of pull requests (code changes) and issues (bug reports and feature requests). If you wish to submit a pull request, feel free to raise an issue first to discuss the implementation details and your approach.
 
 ## Need Help?
-If you have a **programming question** about how to use CalendarKit in your application, [Create a new GitHub Issue with the question tag](https://github.com/richardtop/CalendarKit/issues/new?assignees=&labels=question&projects=&template=question.md&title=).
+If you have a **programming question** about how to use CalendarKit in your application, ask it on StackOverflow with the [CalendarKit](https://stackoverflow.com/questions/tagged/calendarkit) tag.
 
 Check out the [Sample App](https://github.com/richardtop/CalendarApp) for reference.
 
 [Create a new Issue from template](https://github.com/richardtop/CalendarKit/issues/new/choose) to report a bug or request a new feature.
-
 
 
 ## Code Style
@@ -45,6 +44,13 @@ class aClass
 **Correct:**
 
 ```Swift
+//
+//  File.swift
+//  CalendarKit
+//
+//  Created by user on 29/09/2017.
+//
+
 import Foundation
 
 class aClass {

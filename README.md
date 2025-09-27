@@ -23,7 +23,7 @@
 - [Live Programming with CalendarKit - For Beginners](https://www.youtube.com/watch?v=krIfO3s3ZrM)
 
 ## Need Help?
-If you have a **programming question** about how to use CalendarKit in your application, [Create a new GitHub Issue with the question tag](https://github.com/richardtop/CalendarKit/issues/new?assignees=&labels=question&projects=&template=question.md&title=).
+If you have a **programming question** about how to use CalendarKit in your application, ask it on StackOverflow with the [CalendarKit](https://stackoverflow.com/questions/tagged/calendarkit) tag.
 
 Check out the [Sample App](https://github.com/richardtop/CalendarApp) for reference.
 
