@@ -1,0 +1,1202 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/Info.plist" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Info.plist"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/Info.plist"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ar.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ar.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ar.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ca.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ca.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ca.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/cs.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/cs.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/cs.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/da.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/da.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/da.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/de.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/de.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/de.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/el.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/el.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/el.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/en.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/en.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/en.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/en_au.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/en_AU.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/en_au.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/en_gb.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/en_GB.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/en_gb.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/es.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/es.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/es.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/es_419.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/es_419.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/es_419.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/fi.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/fi.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/fi.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/fr.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/fr.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/fr.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/fr_ca.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/fr_CA.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/fr_ca.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/he.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/he.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/he.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/hi.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/hi.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/hi.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/hr.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/hr.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/hr.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/hu.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/hu.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/hu.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/id.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/id.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/id.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/it.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/it.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/it.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ja.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ja.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ja.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ko.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ko.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ko.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ms.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ms.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ms.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/nl.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/nl.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/nl.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/no.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/no.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/no.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/pl.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/pl.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/pl.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/pt_br.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/pt_BR.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/pt_br.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/pt_pt.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/pt_PT.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/pt_pt.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ro.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ro.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ro.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ru.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/ru.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/ru.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/sk.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/sk.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/sk.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/sv.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/sv.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/sv.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/th.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/th.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/th.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/tr.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/tr.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/tr.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/uk.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/uk.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/uk.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/vi.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/vi.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/vi.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-cn.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/zh-CN.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-cn.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-hans.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/zh-Hans.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-hans.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-hant.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/zh-Hant.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-hant.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-hk.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/zh-HK.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-hk.lproj/Localizable.strings"
+        }
+      ]
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-tw.lproj/Localizable.strings" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localizations/zh-TW.lproj/Localizable.strings"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit_CalendarKit.bundle/zh-tw.lproj/Localizable.strings"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.CalendarKit-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/sources",
+      "importPath" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/CalendarStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/EventDataSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Array+Shift.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Date+DateOnly.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Locale+24Hour.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/UIColor+SystemColors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Value+Clamped.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/View+StackView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DayHeaderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DateLabel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DayDateCell.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelectorController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySymbolsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/SwipeLabelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/AllDayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/CurrentTimeIndicator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/Event.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventDescriptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventEditingSnappingBehavior.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventLayoutAttributes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleDotView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/ReusePool.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/SnapTo15MinuteIntervals.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimeStringsFactory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainerController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelinePagerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<CalendarKit-arm64-apple-macosx15.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CalendarKit",
+      "moduleOutputPath" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/Modules/CalendarKit.swiftmodule",
+      "objects" : [
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/CalendarStyle.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DayView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DayViewController.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DayViewState.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventDataSource.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Array+Shift.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Date+DateOnly.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Locale+24Hour.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/UIColor+SystemColors.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Value+Clamped.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/View+StackView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DayHeaderView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DateLabel.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DayDateCell.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DaySelector.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DaySelectorController.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DaySymbolsView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/SwipeLabelView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Localization.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/AllDayView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/CurrentTimeIndicator.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/Event.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventDescriptor.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventEditingSnappingBehavior.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventLayoutAttributes.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventResizeHandleDotView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventResizeHandleView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/EventView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/ReusePool.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/SnapTo15MinuteIntervals.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/TimeStringsFactory.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/TimelineContainer.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/TimelineContainerController.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/TimelinePagerView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/TimelineView.swift.o",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/CalendarKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g"
+      ],
+      "outputFileMapPath" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/Modules/CalendarKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/CalendarStyle.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewController.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewState.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/EventDataSource.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Array+Shift.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Date+DateOnly.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Locale+24Hour.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/UIColor+SystemColors.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Value+Clamped.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/View+StackView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DayHeaderView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DateLabel.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DayDateCell.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelector.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelectorController.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySymbolsView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/SwipeLabelView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localization.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/AllDayView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/CurrentTimeIndicator.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/Event.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventDescriptor.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventEditingSnappingBehavior.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventLayoutAttributes.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleDotView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/ReusePool.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/SnapTo15MinuteIntervals.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimeStringsFactory.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainer.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainerController.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelinePagerView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineView.swift",
+        "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "CalendarKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CalendarKit",
+      "-incremental",
+      "-c",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/CalendarStyle.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewController.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewState.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/EventDataSource.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Array+Shift.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Date+DateOnly.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Locale+24Hour.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/UIColor+SystemColors.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Value+Clamped.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/View+StackView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DayHeaderView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DateLabel.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DayDateCell.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelector.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelectorController.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySymbolsView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/SwipeLabelView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localization.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/AllDayView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/CurrentTimeIndicator.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/Event.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventDescriptor.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventEditingSnappingBehavior.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventLayoutAttributes.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleDotView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/ReusePool.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/SnapTo15MinuteIntervals.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimeStringsFactory.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainer.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainerController.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelinePagerView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineView.swift",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/CalendarKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "CalendarKit" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/CalendarStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/DayViewState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/EventDataSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Array+Shift.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Date+DateOnly.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Locale+24Hour.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/UIColor+SystemColors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/Value+Clamped.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Extensions/View+StackView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DayHeaderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DateLabel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DayDateCell.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySelector/DaySelectorController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/DaySymbolsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Header/SwipeLabelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Localization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/AllDayView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/CurrentTimeIndicator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/Event.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventDescriptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventEditingSnappingBehavior.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventLayoutAttributes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleDotView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventResizeHandleView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/EventView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/ReusePool.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/SnapTo15MinuteIntervals.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimeStringsFactory.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineContainerController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelinePagerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/Sources/Timeline/TimelineView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/sources"
+    },
+    "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

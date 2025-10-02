@@ -1,0 +1,4 @@
+module CalendarKit {
+    header "/Users/zhytkevichzrtem/Calendar_App/CalendarKit/.build/index-build/arm64-apple-macosx/debug/CalendarKit.build/CalendarKit-Swift.h"
+    requires objc
+}
