@@ -101,7 +101,7 @@ final class CustomCalendarExampleController: DayViewController {
               to: event.dateInterval.end
             )
           
-            let color = colors.randomElement() ?? .red
+            let color = UIColor.yellow
           
             let durationAttributedText: NSMutableAttributedString = {
               var attributedString: NSMutableAttributedString!
@@ -208,7 +208,7 @@ final class CustomCalendarExampleController: DayViewController {
 
         info.append(dateIntervalFormatter.string(from: event.dateInterval)!)
         event.text = info.reduce("", {$0 + $1 + "\n"})
-        event.color = colors.randomElement()!
+        event.color = UIColor.yellow
         event.editedEvent = event
 
         return event
